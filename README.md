@@ -4,4 +4,4 @@ Hi, I'm Chuntaojun, TSE Developer at Tencent and cloud-native open source enthus
 
 [![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=chuntaojun)](https://www.liaochuntao.cn/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chuntaojun&repo=lraft)](https://github.com/chuntaojun/lraft)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chuntaojun&repo=polaris-sync)](https://github.com/pole-group/pole)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pole-group&repo=pole)](https://github.com/pole-group/pole)
