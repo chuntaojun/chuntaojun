@@ -4,6 +4,6 @@ Hi, I'm springliao, a cloud-native open-source enthusiast.
 <br>
 Currently, I'm developing [lattice-hub](https://lattice-hub.github.io/), an AI Native service governance center.
 
-[![Chuntaojun's github stats](https://github-readme-stats.vercel.app/api?username=chuntaojun)](https://www.liaochuntao.cn/)
+[![Chuntaojun's github stats](https://github-stats-extended.vercel.app/api?username=chuntaojun)](https://www.liaochuntao.cn/)
 
 
